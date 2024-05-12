@@ -7,3 +7,10 @@ conda create -n trendio python==3.10
 conda activate trendio
 pip install -r requirements.txt
 ```
+
+## Streamlit app
+```bash
+conda activate trendio
+streamlit run app.py
+```
+
